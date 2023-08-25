@@ -1,7 +1,7 @@
 import os
 
 # 폴더 경로
-folder_path = rf"C:\Users\hong_\Desktop\tubeSkin_labeling.v1i.yolov5pytorch\valid\labels"  # 여러 파일이 포함된 폴더의 경로를 지정하세요.
+folder_path = rf"C:\Users\hong_\Desktop\tubeSkin_labeling.v2i.yolov5pytorch\train\labels"  # 여러 파일이 포함된 폴더의 경로를 지정하세요.
 
 # 폴더 내의 모든 파일에 대해 작업 수행
 for filename in os.listdir(folder_path):
