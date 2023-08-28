@@ -1,19 +1,19 @@
 names:
-- glass
-- pet
-- styrofoam
-- can
-- milkCarton
-- paperCup
-- paper
-- box
-- plasticBag
-- battery
-- rubberGloves
-- lamp
-- cosmeticTube
-- detergentTube
-- fruitPackingNet
+- glass #0
+- pet #1
+- styrofoam #2
+- can #3
+- milkCarton #4
+- paperCup #5
+- paper #6
+- box #7
+- plasticBag #8
+- battery #9
+- rubberGloves #10
+- lamp #11
+- cosmeticTube #12
+- detergentTube #13
+- fruitPackingNet #14
 nc: 15
 roboflow:
   license: CC BY 4.0
