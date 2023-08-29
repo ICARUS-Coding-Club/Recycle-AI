@@ -1,6 +1,6 @@
 import os
 
-folder_path = rf'C:\Users\hong_\Desktop\tubeSkin_labeling.v2i.yolov5pytorch\valid\labels'  # 폴더 경로를 여기에 입력하세요.
+folder_path = rf'C:\Users\hong_\Desktop\YOLOv5\recycle_dataset\valid\labels'  # 폴더 경로를 여기에 입력하세요.
 
 empty_files = []
 
@@ -32,7 +32,7 @@ new_file_list = [filename.replace('.txt', '.jpg') for filename in file_list]
 # 변경된 리스트 출력
 print(new_file_list)
 
-folder_path = rf'C:\Users\hong_\Desktop\tubeSkin_labeling.v2i.yolov5pytorch\valid\images'  # 폴더 경로를 여기에 입력하세요.
+folder_path = rf'C:\Users\hong_\Desktop\YOLOv5\recycle_dataset\valid\images'  # 폴더 경로를 여기에 입력하세요.
 file_names_to_delete = new_file_list  # 삭제할 파일 이름 목록을 여기에 입력하세요.
 
 for filename in file_names_to_delete:
