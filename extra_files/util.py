@@ -46,5 +46,3 @@ def detectTrash(id):
             result.append(trash_dict[first_number])
 
     return result
-
-detectTrash('user_id')
