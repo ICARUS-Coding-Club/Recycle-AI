@@ -74,7 +74,8 @@ https://minding-deep-learning.tistory.com/19
 1. Visual Studio Code (Python 3.8.17)
 2. Anaconda
 3. CUDA 11.8
-4. GPU: RTX 3070, RAM: 32GB
+4. Pytorch 11.8
+5. GPU: RTX 3070, RAM: 32GB
 ```
 
 </br>
