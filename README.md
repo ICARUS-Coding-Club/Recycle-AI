@@ -19,18 +19,18 @@
 
 </br>
 
-## 참고 사이트
-https://minding-deep-learning.tistory.com/19
-
-
 ## 모델 학습 실행 명령어
     python train.py --img 640 --batch 16 --epochs 20 --data ~/dataset/data.yaml --cfg ./models/yolov5s.yaml --weights yolov5s.pt --name yolov5_coco
+
+</br>
 
 ## 이미지 판별 실행 명령어
 모델 이름 설정 [model_name]: ex) exp   
 판별할 이미지 이름 [image_name]: ex) test_image
 
     python ./yolov5-master/detect.py --weights ./yolov5-master/runs/train/[model_name]/weights/best.pt --img 640 --conf 0.5 --source ./images/[image_name].jpg
+
+</br>
 
 ## detect.py 인자값 설명
 --weights: 사용할 모델 가중치 파일 경로  
@@ -60,6 +60,13 @@ https://minding-deep-learning.tistory.com/19
 --half: FP16 하프 프리시전 추론 사용 (인자값 없음), (잘 모르겠음)  
 --dnn: ONNX 추론을 위해 OpenCV DNN을 사용 (인자값 없음), (잘 모르겠음)  
 --vid-stride: 비디오 프레임 속도 간격 지정 ex) --vid-stride 1 (비디오 인식을 하지 않아서 잘 모르겠음)  
+
+</br>
+
+## 참고 사이트
+https://minding-deep-learning.tistory.com/19
+
+</br>
 
 ## 개발 환경
 
