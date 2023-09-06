@@ -1,0 +1,27 @@
+names:
+- glass
+- pet
+- styrofoam
+- can
+- milkCarton
+- paperCup
+- paper
+- box
+- plasticBag
+- battery
+- rubberGloves
+- lamp
+- cosmeticTube
+- detergentTube
+- fruitPackingNet
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: paper-iybve
+  url: https://universe.roboflow.com/modern-academy-for-engineering-enkza/paper-iybve/dataset/1
+  version: 1
+  workspace: modern-academy-for-engineering-enkza
+test: C:\Users\hong_\Desktop\YOLOv5\trash_test\test\images
+train: C:\Users\hong_\Desktop\YOLOv5\Recycle-AI\Recycle-AI\dataset\trash02\train.txt
+val: C:\Users\hong_\Desktop\YOLOv5\trash_test\valid\images
+valid: C:\Users\hong_\Desktop\YOLOv5\Recycle-AI\Recycle-AI\dataset\trash02\valid.txt
