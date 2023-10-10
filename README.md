@@ -64,11 +64,11 @@
 </br>
 
 ## Result
-**F1_curve
+**F1_curve**
 ![F1_curve](https://github.com/ICARUS-Coding-Club/Recycle-AI/assets/34588777/9c2836ae-64b0-4d0e-9654-96c189a617d1)
-**PR_curve
+**PR_curve**
 ![PR_curve](https://github.com/ICARUS-Coding-Club/Recycle-AI/assets/34588777/725cd2c8-0d86-4e1e-b847-09a202d47294)
-**Predict
+**Predict**
 ![val_batch0_pred](https://github.com/ICARUS-Coding-Club/Recycle-AI/assets/34588777/37a283e3-803e-41b3-b6a4-72af5d19a230)
 
 
