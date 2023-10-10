@@ -63,6 +63,11 @@
 
 </br>
 
+## 정확도
+![image](https://github.com/ICARUS-Coding-Club/Recycle-AI/assets/34588777/cd48e8b3-21b0-4810-bf31-1a0b641c2559)
+
+</br>
+
 ## 참고 사이트
 https://minding-deep-learning.tistory.com/19
 
