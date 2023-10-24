@@ -111,3 +111,6 @@ https://github.com/ICARUS-Coding-Club/Recycle-Server
 ```
 
 </br>
+
+## 라이센스
+[라이센스](https://github.com/ICARUS-Coding-Club/Recycle-AI/blob/main/yolov5-master/LICENSE)
